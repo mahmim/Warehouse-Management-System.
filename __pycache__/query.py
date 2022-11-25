@@ -121,14 +121,13 @@ while True:
             print("Location: Not in stock")
             print('')
             bye(user_name)
-        
-########################################    
+   
     elif user_input == "3":
         bye(user_name)
         break
-########################################    
+   
 
-########################################    
+   
 
     else:
         print('')
